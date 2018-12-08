@@ -139,5 +139,5 @@ PRODUCT_COPY_FILES += \
         vendor/themes/sounds/ringtones/Duo.ogg:system/media/audio/ringtones/Duo.ogg 
 
 PRODUCT_PROPERTY_OVERRIDES += \
-   ro.config.ringtone=Zen_too.ogg \
+   ro.config.ringtone=Zen_too.ogg,Zen_too.ogg \
    ro.config.notification_sound=Chime.ogg
